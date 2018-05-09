@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body { background-image: url(running.png); }
+.light_img {
+	text-align:center;
+}
+.winner {
+	display:none;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.img2 { 
+  position: absolute;
+  bottom: 200px;
+  left: 0px;
+}
+
+.img3 {
+  position: absolute;
+  top: 270px;
+  left: 0px;
+}
